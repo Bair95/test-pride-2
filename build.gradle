@@ -1,0 +1,9 @@
+repositories {
+	mavenCentral()
+}
+dependencies {
+	compile 'fr.ber:test-pride-1:+'
+}
+
+group = "fr.ber.test2"
+version = "1.0"
